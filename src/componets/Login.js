@@ -40,7 +40,7 @@ const Login = () => {
                     onChange={e => setUserName(e.target.value)}
                     required
                 />
-                <button className='button_success' > <i className="fas fa-share"></i> Submit</button>
+                <button className='button_success' > <i className="fas fa-share"></i> Submit off/line</button>
                 
             </form>
         </div>
